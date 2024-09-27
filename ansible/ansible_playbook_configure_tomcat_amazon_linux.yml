@@ -1,7 +1,7 @@
 ---
   - name: Install and configure tomcat
     hosts: localhost
-    gather_facts: false
+    gather_facts: fals hghhe
     vars:
       java_v: java-1.8.0-openjdk
       set_java: jre-1.8.0-openjdk-1.8.0.332.b09-1.amzn2.0.2.x86_64
